@@ -22,3 +22,14 @@ There are three versions:
 - v3 with different font weightings
 
 each is also supplied with an OC variant showing the new design with the original colors.
+
+Some [Juxtapose](https://juxtapose.knightlab.com/) comparison sliders for comparing versions:
+-[v1 vs v2](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9b80f238-ac64-11e7-b263-0edaf8f81e27)
+-[v1 vs v3](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ec014abe-ac64-11e7-b263-0edaf8f81e27)
+-[v2 vs v3](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=66062ad4-ac6d-11e7-b263-0edaf8f81e27)
+-[v1 colors](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2c39f638-ac6c-11e7-b263-0edaf8f81e27)
+-[v2 colors](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=afb9eefe-ac6d-11e7-b263-0edaf8f81e27)
+-[v3 colors](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=afb9eefe-ac6d-11e7-b263-0edaf8f81e27)
+-[v1 vs current logo](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=17a90aa4-ac6e-11e7-b263-0edaf8f81e27)
+-[v2 vs current logo](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=17a90aa4-ac6e-11e7-b263-0edaf8f81e27)
+-[v3 vs current logo](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fd7632d8-ac6d-11e7-b263-0edaf8f81e27)
