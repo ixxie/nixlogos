@@ -21,3 +21,4 @@ There are three versions:
 - v2 with additionally a tilt in the snowflake
 - v3 with different font weightings
 
+each is also supplied with an OC variant showing the new design with the original colors.
