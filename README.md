@@ -23,7 +23,7 @@ There are three versions:
 
 each is also supplied with an OC variant showing the new design with the original colors.
 
-Some [Juxtapose](https://juxtapose.knightlab.com/) comparison sliders for comparing versions:
+Some [Juxtapose](https://juxtapose.knightlab.com/) comparison sliders for comparing versions; for correct resolution you may have to zoom out a little:
 
 - [v1 vs v2](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9b80f238-ac64-11e7-b263-0edaf8f81e27)
 - [v1 vs v3](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ec014abe-ac64-11e7-b263-0edaf8f81e27)
