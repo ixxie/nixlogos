@@ -15,13 +15,15 @@ This is an early draft.
 - Renewed color palatte to modernize it; freshened the blues and turned the text to a dark gray to reduce contrast a bit.
 - Adjusted its scale relative to the text for visual balance.
 
-There are three versions:
+There are five versions:
 
 - v1 with the above changes
 - v2 with additionally a tilt in the snowflake
 - v3 with different font weightings
+- v4 different font (Signika)
+- v5 different font (Armata)
 
-each is also supplied with an OC variant showing the new design with the original colors.
+the first three are also supplied with an OC variant showing the new design with the original colors.
 
 Some [Juxtapose](https://juxtapose.knightlab.com/) comparison sliders for comparing versions; for correct resolution you may have to zoom out a little:
 
